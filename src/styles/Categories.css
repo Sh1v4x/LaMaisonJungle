@@ -1,0 +1,17 @@
+.lmj-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+	padding: 5px 20px 5px 20px;
+}
+
+.lmj-button-reset {
+	background-color: #4CAF50; 
+	border: 1px solid black;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
